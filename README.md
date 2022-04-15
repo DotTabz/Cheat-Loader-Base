@@ -4,6 +4,17 @@ This is a base cheat loader with injector meant to be used for my series on YouT
 # Video
 - [Part 1 - Login + Menu](https://youtu.be/ILFGvu-Dd14)
 
+# Features
+- Basic Login
+- Menu
+
+`To Come:`
+
+- Injector
+- Download our cheat dll/exe
+- Inject our cheat
+- And so on...
+
 # Usage
 - Clone repository
 - Make sure to use x86 `Release || Release`
