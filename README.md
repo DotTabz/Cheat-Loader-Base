@@ -10,4 +10,4 @@ This is a base cheat loader with injector meant to be used for my series on YouT
 - Compiled binary `CheatLoaderV1.exe` will be found in build folder
 
 # Disclaimer
-I am not responsible for anything that happens when you use this software. Cheers.
+I am not responsible for anything that happens when you use this software.
