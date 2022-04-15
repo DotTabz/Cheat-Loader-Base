@@ -1,2 +1,13 @@
-# Cheat-Loader-Base
-A basic cheat loader with login and injector. Works for csgo, tf2 and gtav.
+# About
+This is a base cheat loader with injector meant to be used for my series on YouTube. This was made to avoid me having to recode all code from each video and so you can copy and paste :)
+
+# Video
+- [Part 1 - Login + Menu](https://youtu.be/ILFGvu-Dd14)
+
+# Usage
+- Clone repository
+- Make sure to use x86 `Release || Release`
+- Compiled binary `CheatLoaderV1.exe` will be found in build folder
+
+# Disclaimer
+I am not responsible for anything that happens when you use this software. Cheers.
