@@ -3,6 +3,7 @@ This is a base cheat loader with injector meant to be used for my series on YouT
 
 # Video
 - [Part 1 - Login + Menu](https://youtu.be/ILFGvu-Dd14)
+- [Part 2 - Dll Import + Injector](https://youtu.be/UoJNtrKsIAQ)
 
 # Features
 - Loadlibrary
