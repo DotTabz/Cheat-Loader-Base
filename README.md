@@ -11,6 +11,8 @@ This is a base cheat loader with injector meant to be used for my series on YouT
 - Csgo & tf2
 - Support newest VAC update
 - Bypass trusted
+- Anti Debug
+- Xostr
 
 `To Come:`
 
