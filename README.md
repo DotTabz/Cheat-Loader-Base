@@ -4,6 +4,7 @@ This is a base cheat loader with injector meant to be used for my series on YouT
 # Video
 - [Part 1 - Login + Menu](https://youtu.be/ILFGvu-Dd14)
 - [Part 2 - Dll Import + Injector](https://youtu.be/UoJNtrKsIAQ)
+- [Part 3 - Security + Optimization](https://youtu.be/0AxdxXtkfHg)
 
 # Features
 - Loadlibrary
@@ -13,7 +14,9 @@ This is a base cheat loader with injector meant to be used for my series on YouT
 
 `To Come:`
 
-- Code optimisation
+- Auth System
+- Manualmap
+- Delete dll when injected
 
 # Usage
 - Clone repository
