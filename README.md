@@ -21,7 +21,7 @@ This is a base cheat loader with injector meant to be used for my series on YouT
 # Usage
 - Clone repository
 - Make sure to use x86 `Release || Release`
-- Compiled binary `TT-Injector.exe` will be found in build folder
+- Compiled binary `ConsoleLoader.exe` will be found in build folder
 
 # Disclaimer
 I am not responsible for anything that happens when you use this software.
